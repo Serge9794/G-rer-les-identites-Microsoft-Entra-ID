@@ -75,7 +75,9 @@ GROUPE 3 : Groupe Dynamique IT
 
   LAB 3 — INVITATION D’UTILISATEURS EXTERNES (B2B)
 ====================================================================
+
 Objectif : Inviter un utilisateur invité et lui attribuer des permissions.
+
 ACTIONS :
 1. Identité - Utilisateurs -Tous les utilisateurs - « Nouvel utilisateur »
 2. Sélectionnez « Inviter un utilisateur externe »
