@@ -1,5 +1,5 @@
-# lab-1-creation-utilisateurs.
-Pratique de la création et gestion des comptes utilisateurs.
+# lab-s-creation-utilisateurs.
+Pratique de la création et gestion des comptes utilisateurs(Internes et externes) et des groupes et ajouter des membres.
 
 LAB 1 — CRÉATION DES UTILISATEURS
 ====================================================================
