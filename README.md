@@ -1,5 +1,6 @@
 # lab-s-creation-utilisateurs.
 Pratique de la création et gestion des comptes utilisateurs(Internes et externes) et des groupes et ajouter des membres.
+La gestion des identités dans Microsoft Entra ID (anciennement Azure Active Directory) est l’ensemble des services, processus et mécanismes permettant de créer, protéger, administrer et contrôler les identités numériques des utilisateurs, invités, applications et appareils au sein d’une organisation.
 
 LAB 1 — CRÉATION DES UTILISATEURS
 =================================
